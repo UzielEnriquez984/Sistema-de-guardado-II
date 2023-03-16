@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26a268ca277d89d488b6fda650860f9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player1: {instanceID: 0}
+  - Player2: {instanceID: 0}
+  - Ball: {instanceID: 0}
+  - NameP1: {instanceID: 0}
+  - NameP2: {instanceID: 0}
+  - ScoreP1: {instanceID: 0}
+  - ScoreP2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

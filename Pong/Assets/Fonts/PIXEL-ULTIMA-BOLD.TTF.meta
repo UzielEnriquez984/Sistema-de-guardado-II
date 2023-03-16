@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 36857d5a17d30204da9c7ea724ed3502
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pixel Ultima
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1fb485d506d32d4e91d64997e198af7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
